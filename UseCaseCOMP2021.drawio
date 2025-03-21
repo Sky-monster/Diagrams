@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="YJCS4oF-SaafcM458pWw">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y7tnct4TC6KXwn72ElJt-8" value="Register&lt;div&gt;Login&lt;/div&gt;&lt;div&gt;Manage Profile&lt;/div&gt;&lt;div&gt;View Content&lt;/div&gt;&lt;div&gt;Add/edit/rate trails/reviews&lt;/div&gt;&lt;div&gt;Receive badges&lt;/div&gt;&lt;div&gt;Flag/report&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="219" y="40" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="y7tnct4TC6KXwn72ElJt-1" value="Account user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="50" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="y7tnct4TC6KXwn72ElJt-2" value="Admin User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="125.5" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y7tnct4TC6KXwn72ElJt-12" value="Manage User accounts&lt;div&gt;Approves/Disapproves reports/trail submissions&lt;/div&gt;&lt;div&gt;Moderate User Comment&lt;/div&gt;&lt;div&gt;Responses (remove, warn, suspend, ban)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="358.75" width="152.5" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y7tnct4TC6KXwn72ElJt-13" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y7tnct4TC6KXwn72ElJt-14" value="Account User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="50" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
