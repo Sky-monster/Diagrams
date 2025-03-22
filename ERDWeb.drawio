@@ -355,9 +355,6 @@
         <mxCell id="PaOok8VBSKYj_wz6KmjJ-71" value="Searches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PaOok8VBSKYj_wz6KmjJ-73" value="Contains" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="880" y="390" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PaOok8VBSKYj_wz6KmjJ-74" value="Search Engine" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="160" height="222" as="geometry" />
         </mxCell>
