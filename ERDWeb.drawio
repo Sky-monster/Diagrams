@@ -435,11 +435,11 @@
         <mxCell id="Us2M2ySIcbiunoSymoKX-49" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="-229" y="-225" width="38" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Us2M2ySIcbiunoSymoKX-50" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Arial;" parent="1" vertex="1">
-          <mxGeometry x="83" y="-226" width="36" height="26" as="geometry" />
+        <mxCell id="Us2M2ySIcbiunoSymoKX-50" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="81" y="-228" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Us2M2ySIcbiunoSymoKX-51" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Arial;" parent="1" vertex="1">
-          <mxGeometry x="188" y="-227" width="36" height="26" as="geometry" />
+        <mxCell id="Us2M2ySIcbiunoSymoKX-51" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="186" y="-229" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Us2M2ySIcbiunoSymoKX-56" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;rotation=0;fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="-455" y="18" width="10" height="10" as="geometry" />
