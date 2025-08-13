@@ -28,7 +28,7 @@
         <mxCell id="-0yB_duNghisxQLePTIA-78" value="Monitoring" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-79" value="Closeure" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="-0yB_duNghisxQLePTIA-79" value="Closure" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="630" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-0yB_duNghisxQLePTIA-81" value="Initiating" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -73,22 +73,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-95" value="Project 1: &lt;br&gt;Initial product" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="-0yB_duNghisxQLePTIA-95" value="Project 1: &lt;br&gt;Initial product" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-96" value="Project 2: &lt;br&gt;Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="-0yB_duNghisxQLePTIA-96" value="Project 2: &lt;br&gt;Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-97" value="Project 3:&amp;nbsp;&lt;br&gt;Add-ons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="-0yB_duNghisxQLePTIA-97" value="Project 3:&amp;nbsp;&lt;br&gt;Add-ons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-98" value="Project 5:&amp;nbsp;&lt;br&gt;Revision" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="-0yB_duNghisxQLePTIA-98" value="Project 5:&amp;nbsp;&lt;br&gt;Revision" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="550" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-100" value="Project 4: &lt;br&gt;Revision" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="-0yB_duNghisxQLePTIA-100" value="Project 4: &lt;br&gt;Revision" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-0yB_duNghisxQLePTIA-101" value="Project 6: &lt;br&gt;Retirement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="-0yB_duNghisxQLePTIA-101" value="Project 6: &lt;br&gt;Retirement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="670" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-0yB_duNghisxQLePTIA-106" value="Project Life Cycle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
