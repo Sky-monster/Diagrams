@@ -1,116 +1,176 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="SxB9uh9p98daKZW68kdo">
-    <mxGraphModel dx="2395" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2kVBc_zqeof4KfWbexQ--64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-540" y="63" width="650" height="350" as="geometry" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1060" y="50" width="650" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--80" value="" style="group" vertex="1" connectable="0" parent="2kVBc_zqeof4KfWbexQ--64">
-          <mxGeometry width="650" height="280" as="geometry" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-41" value="" style="group;fontFamily=Arial;" vertex="1" connectable="0" parent="8RLAE5ycoJxHwblhMjob-40">
+          <mxGeometry width="650" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--48" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--80">
-          <mxGeometry width="650" height="48.61111111111111" as="geometry" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-42" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-41">
+          <mxGeometry y="19.566176470588236" width="650" height="230.11821266968306" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--48">
-          <mxGeometry width="650" height="49" as="geometry" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-42">
+          <mxGeometry width="650" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--50" value="ID:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--49">
-          <mxGeometry width="163" height="49" as="geometry">
-            <mxRectangle width="163" height="49" as="alternateBounds" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-44" value="&lt;div&gt;&lt;b&gt;Story:&lt;/b&gt;&lt;br&gt;As an administrator, I want to view user information such as user activity; rewards earned, and progress, so that I can monitor user engagement and track their performance.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-43">
+          <mxGeometry width="650" height="48" as="geometry">
+            <mxRectangle width="650" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--51" value="Title: Dashboard" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--49">
-          <mxGeometry x="163" width="270" height="49" as="geometry">
-            <mxRectangle width="270" height="49" as="alternateBounds" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-42">
+          <mxGeometry y="48" width="650" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-46" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-45">
+          <mxGeometry width="650" height="182" as="geometry">
+            <mxRectangle width="650" height="182" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--52" value="Priority: 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--49">
-          <mxGeometry x="433" width="109" height="49" as="geometry">
-            <mxRectangle width="109" height="49" as="alternateBounds" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-47" value="&lt;b&gt;Acceptance criteria&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-41">
+          <mxGeometry y="67.30429864253394" width="120" height="22.058823529411764" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-55" value="1. After the system validates the login credentials entered in the login page:&lt;br&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.  The administrator is logged into the homepage of the platform.&lt;div&gt;&lt;div&gt;2. Whenever the administrator clicks &#39;user management&#39;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.  The platform displays all users registered in the system&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. Selecting a user displays their activity log, containing a record of the following:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Badges acquired&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Streak count&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Total well-being points&lt;br&gt;&lt;b&gt;Definition of Done&lt;/b&gt;&lt;br&gt;1. User management page  is accessible only by administrators&lt;br&gt;2. Selecting a user displays their full activity log, including badges, streaks, and total well-being points&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-41">
+          <mxGeometry y="80.88518099547512" width="560" height="176.47058823529412" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-40">
+          <mxGeometry width="650" height="19.830882352941178" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-49">
+          <mxGeometry width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-51" value="ID: REQ3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-50">
+          <mxGeometry width="89" height="20" as="geometry">
+            <mxRectangle width="89" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--53" value="Estimate:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--49">
-          <mxGeometry x="542" width="108" height="49" as="geometry">
-            <mxRectangle width="108" height="49" as="alternateBounds" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-52" value="&lt;b&gt;Title:&lt;/b&gt;&amp;nbsp;View user data" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-50">
+          <mxGeometry x="89" width="351" height="20" as="geometry">
+            <mxRectangle width="351" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--59" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--80">
-          <mxGeometry y="48.61" width="650" height="231.39" as="geometry" />
-        </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--59">
-          <mxGeometry width="650" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--61" value="Story:&lt;br&gt;As a registered user, I want to access my dashboard so I can view my badges, streaks, and WBPs.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--60">
-          <mxGeometry width="650" height="37" as="geometry">
-            <mxRectangle width="650" height="37" as="alternateBounds" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-53" value="&lt;font&gt;&lt;b&gt;Priority&lt;/b&gt;: 3&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-50">
+          <mxGeometry x="440" width="90" height="20" as="geometry">
+            <mxRectangle width="90" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--59">
-          <mxGeometry y="37" width="650" height="194" as="geometry" />
-        </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--63" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--62">
-          <mxGeometry width="650" height="194" as="geometry">
-            <mxRectangle width="650" height="194" as="alternateBounds" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Estimate&lt;/b&gt;: 2 hours&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-50">
+          <mxGeometry x="530" width="120" height="20" as="geometry">
+            <mxRectangle width="120" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--78" value="Acceptance criteria" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--80">
-          <mxGeometry y="100" width="120" height="30" as="geometry" />
+        <mxCell id="8RLAE5ycoJxHwblhMjob-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-280" y="69" width="650" height="201" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--79" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1. After the system validates the login credentials entered in the login page:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.&amp;nbsp; The user is logged into the homepage of the platform.&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;2. Whenever the user clicks on the &#39;dashboard&#39; tab:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.&amp;nbsp; The platform displays the dashboard page.&amp;nbsp;&lt;br&gt;&lt;br&gt;Definition of Done&lt;br&gt;1. Dashboard is visible to the user&amp;nbsp;&lt;br&gt;2. Dashboard displays user&#39;s badges, streaks, and well-being points&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--80">
-          <mxGeometry y="130" width="520" height="140" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--48" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;fontFamily=Arial;" parent="8RLAE5ycoJxHwblhMjob-87" vertex="1">
+          <mxGeometry width="650" height="18.769571428571428" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--82" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="650" height="57.291666666666664" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--48" vertex="1">
+          <mxGeometry width="650" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--82">
-          <mxGeometry width="650" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--84" value="ID:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--83">
-          <mxGeometry width="163" height="57" as="geometry">
-            <mxRectangle width="163" height="57" as="alternateBounds" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--50" value="&lt;b&gt;ID:&lt;/b&gt; REQ1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--49" vertex="1">
+          <mxGeometry width="89" height="19" as="geometry">
+            <mxRectangle width="89" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--85" value="Title: Earn virtual incentives" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--83">
-          <mxGeometry x="163" width="270" height="57" as="geometry">
-            <mxRectangle width="270" height="57" as="alternateBounds" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--51" value="&lt;b&gt;Title:&lt;/b&gt; User Dashboard" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--49" vertex="1">
+          <mxGeometry x="89" width="351" height="19" as="geometry">
+            <mxRectangle width="351" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--86" value="Priority: 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--83">
-          <mxGeometry x="433" width="109" height="57" as="geometry">
-            <mxRectangle width="109" height="57" as="alternateBounds" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--52" value="&lt;font&gt;&lt;b&gt;Priority:&lt;/b&gt;&amp;nbsp;2&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--49" vertex="1">
+          <mxGeometry x="440" width="90" height="19" as="geometry">
+            <mxRectangle width="90" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--87" value="Estimate:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--83">
-          <mxGeometry x="542" width="108" height="57" as="geometry">
-            <mxRectangle width="108" height="57" as="alternateBounds" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Estimate:&lt;/b&gt; 4 hours&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--49" vertex="1">
+          <mxGeometry x="530" width="120" height="19" as="geometry">
+            <mxRectangle width="120" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--88" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="160" y="97.29" width="650" height="302.71" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--59" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Arial;" parent="8RLAE5ycoJxHwblhMjob-87" vertex="1">
+          <mxGeometry y="18.769571428571428" width="650" height="150.22357142857138" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--88">
-          <mxGeometry width="650" height="49" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--59" vertex="1">
+          <mxGeometry width="650" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--90" value="Story:&lt;br&gt;As a registered user, I want to acquire badges, streaks and WBPs&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--89">
-          <mxGeometry width="650" height="49" as="geometry">
-            <mxRectangle width="650" height="49" as="alternateBounds" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--61" value="&lt;b&gt;Story:&lt;/b&gt;&lt;br&gt;As a registered user, I want to access my dashboard so I can view my badges, streaks and&amp;nbsp; well-being points.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--60" vertex="1">
+          <mxGeometry width="650" height="33" as="geometry">
+            <mxRectangle width="650" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--88">
-          <mxGeometry y="49" width="650" height="254" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--59" vertex="1">
+          <mxGeometry y="33" width="650" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--92" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="2kVBc_zqeof4KfWbexQ--91">
-          <mxGeometry width="650" height="254" as="geometry">
-            <mxRectangle width="650" height="254" as="alternateBounds" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--63" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Arial;" parent="2kVBc_zqeof4KfWbexQ--62" vertex="1">
+          <mxGeometry width="650" height="117" as="geometry">
+            <mxRectangle width="650" height="117" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--93" value="Acceptance criteria" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="139.99714285714288" width="120" height="35.35714285714286" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--78" value="&lt;b&gt;Acceptance criteria&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;" parent="8RLAE5ycoJxHwblhMjob-87" vertex="1">
+          <mxGeometry y="47.85714285714287" width="120" height="28.714285714285715" as="geometry" />
         </mxCell>
-        <mxCell id="2kVBc_zqeof4KfWbexQ--94" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1. Whenever the user interacts with the platform&#39;s features:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.&amp;nbsp; System reads the event and emits it to its associated&amp;nbsp; gaming modules:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&amp;nbsp;&lt;/span&gt;&amp;nbsp; &amp;nbsp; Badge, Streak, WBPS&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. Modules read events, updating the event count and compares it to its pre-requisites&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. If pre-requisites are met, the modules awards badges, streaks and/or WBP&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. Module updates the virtual incentives acquired on the user dashboard&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. Notification is sent to the user, alerting that he/she had earned virtual incentives&amp;nbsp;&lt;br&gt;&lt;br&gt;Definition of Done&lt;br&gt;1. Virtual incentive awarded to user after fulfilling its associated pre-requisites.&lt;br&gt;2. User is alerted of this achievement, and can view their updated dashboard&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="520" height="236.79" as="geometry" />
+        <mxCell id="2kVBc_zqeof4KfWbexQ--79" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;1. After the system validates the login credentials entered in the login page:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.&amp;nbsp; The user is logged into the homepage of the platform.&amp;nbsp;&lt;br&gt;2. Whenever the user clicks on the &#39;dashboard&#39; tab:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.&amp;nbsp; The platform displays the dashboard page.&amp;nbsp;&lt;br&gt;&lt;b&gt;Definition of Done&lt;/b&gt;&lt;br&gt;1. Dashboard is accessible after login&amp;nbsp;&lt;br&gt;2. Dashboard displays user&#39;s badges, streaks, and well-being points&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;" parent="8RLAE5ycoJxHwblhMjob-87" vertex="1">
+          <mxGeometry y="53.66690115993174" width="520" height="142.4656906077348" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-88" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1040" y="350" width="715" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-89" value="" style="group;fontFamily=Arial;" vertex="1" connectable="0" parent="8RLAE5ycoJxHwblhMjob-88">
+          <mxGeometry width="715" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-90" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-89">
+          <mxGeometry y="17.22614060338677" width="650" height="210.71400886156957" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-90">
+          <mxGeometry width="650" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-92" value="&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b style=&quot;&quot;&gt;Story:&lt;/b&gt;&lt;br&gt;As a registered user, I want to earn virtual rewards such as badges, streaks and well-being points so that I am motivated in engaging with the platform.&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-91">
+          <mxGeometry width="650" height="53" as="geometry">
+            <mxRectangle width="650" height="53" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-90">
+          <mxGeometry y="53" width="650" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-93">
+          <mxGeometry width="650" height="158" as="geometry">
+            <mxRectangle width="650" height="158" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-95" value="&lt;b&gt;Acceptance criteria&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-89">
+          <mxGeometry y="69.99528820646748" width="120" height="19.165994826417915" as="geometry" />
+        </mxCell>
+        <mxCell id="2kVBc_zqeof4KfWbexQ--94" value="&lt;div&gt;1. Whenever the user interacts with the platform&#39;s features:&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;System reads the event and emits it to its associated&amp;nbsp; service modules:&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. Service modules read events, updating its event count and check reward pre-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;requisites.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. If conditions are met, the system grants the user the appropriate virtual rewards&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. User dashboard is updated to reflect acquisition of virtual rewards.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;e. Notification is sent to inform user of acquiring virtual rewards.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Definition of Done&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Virtual incentive awarded&amp;nbsp; after fulfilling its associated pre-conditions&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. User receives notification and sees an update on their dashboard.&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8RLAE5ycoJxHwblhMjob-89" vertex="1">
+          <mxGeometry y="80" width="680" height="164.1" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-97" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-88">
+          <mxGeometry width="650" height="20.230229348949706" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-98" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-97">
+          <mxGeometry width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-99" value="ID: REQ2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-98">
+          <mxGeometry width="89" height="20" as="geometry">
+            <mxRectangle width="89" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-100" value="&lt;b&gt;Title:&lt;/b&gt;&amp;nbsp;Earn Virtual Rewards" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-98">
+          <mxGeometry x="89" width="341" height="20" as="geometry">
+            <mxRectangle width="341" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-101" value="&lt;font&gt;&lt;b&gt;Priority&lt;/b&gt;: 1&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontSize=14;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-98">
+          <mxGeometry x="430" width="90" height="20" as="geometry">
+            <mxRectangle width="90" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RLAE5ycoJxHwblhMjob-102" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Estimate&lt;/b&gt;: 10 hours&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FFFFFF;align=left;fontFamily=Arial;" vertex="1" parent="8RLAE5ycoJxHwblhMjob-98">
+          <mxGeometry x="520" width="130" height="20" as="geometry">
+            <mxRectangle width="130" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
