@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t1sS4PIhFtuqnb2Qktt5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
-          <mxGeometry x="-290" y="-106" width="500" height="570" as="geometry" />
+          <mxGeometry x="-290" y="-116" width="500" height="570" as="geometry" />
         </mxCell>
         <mxCell id="t1sS4PIhFtuqnb2Qktt5-87" value="" style="group" vertex="1" connectable="0" parent="t1sS4PIhFtuqnb2Qktt5-72">
           <mxGeometry y="-10" width="60" height="50" as="geometry" />
@@ -65,22 +65,22 @@
           <mxGeometry x="-250" y="170" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t1sS4PIhFtuqnb2Qktt5-84" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
-          <mxGeometry y="242" width="172.5" height="211.25" as="geometry" />
+          <mxGeometry x="6" y="236" width="172.5" height="223.25" as="geometry" />
         </mxCell>
         <mxCell id="t1sS4PIhFtuqnb2Qktt5-82" value="Activity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
           <mxGeometry x="-30" y="230" width="205" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t1sS4PIhFtuqnb2Qktt5-86" value="You have added 5 friends!" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
-          <mxGeometry y="270" width="142.5" height="30" as="geometry" />
+        <mxCell id="t1sS4PIhFtuqnb2Qktt5-86" value="You have added 5 friends!&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ 50pts" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
+          <mxGeometry x="-15" y="270" width="205" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t1sS4PIhFtuqnb2Qktt5-92" value="You have shared a highlight!" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
-          <mxGeometry y="310" width="171.5" height="30" as="geometry" />
+        <mxCell id="t1sS4PIhFtuqnb2Qktt5-92" value="You have shared a highlight!&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ 100pts" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
+          <mxGeometry x="-15" y="310" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t1sS4PIhFtuqnb2Qktt5-93" value="You have booked a session!" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
-          <mxGeometry y="350" width="171.5" height="30" as="geometry" />
+        <mxCell id="t1sS4PIhFtuqnb2Qktt5-93" value="You have booked a session!&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ 100pts" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
+          <mxGeometry x="-15" y="350" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t1sS4PIhFtuqnb2Qktt5-94" value="Badge unlocked:&amp;nbsp; Collector&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
-          <mxGeometry y="390" width="171.5" height="30" as="geometry" />
+        <mxCell id="t1sS4PIhFtuqnb2Qktt5-120" value="A session is starting soon!&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t1sS4PIhFtuqnb2Qktt5-72">
+          <mxGeometry x="-15" y="380" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t1sS4PIhFtuqnb2Qktt5-3" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Arial;" vertex="1" parent="1">
           <mxGeometry x="290" y="-156" width="500" height="40" as="geometry" />
