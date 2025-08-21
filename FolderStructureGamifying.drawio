@@ -1,61 +1,61 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="CNm5QoasOaSPqWcli5Yv">
-    <mxGraphModel dx="1028" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="taT7G3SYx_tGGkmXo42I-1" value="events/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="232.5" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="186.5" y="232.5" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-2" value="src/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="19" y="120.5" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-3" value="/gamifiying_app" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="30" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="-69" y="50" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-4" value="friendAdded" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="430" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-4" value="friendAdded.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="193" y="430" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-6" value="bookingCreated&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="540" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-6" value="bookingCreated.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="193" y="540" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-7" value="userLoggedIn.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="320" width="56.00000000000001" height="69" as="geometry" />
+          <mxGeometry x="193" y="320" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-8" value="&lt;div&gt;wellbeingCheckedin&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="293" y="758" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-8" value="&lt;div&gt;wellbeingCheckedin.ts&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="193" y="758" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-9" value="&lt;div&gt;highlightShared&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="650" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-9" value="&lt;div&gt;highlightShared.ts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="193" y="650" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-10" value="router/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="420" y="230" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="400" y="232.5" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-11" value="producers/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="230" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="297" y="232.5" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-14" value="friendProducer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="316.5" y="320" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-14" value="friendProducer.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="430" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-15" value="wellbeingProducer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="326.5" y="650" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-15" value="wellbeingProducer.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="758" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-16" value="highlightProducer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="326.5" y="540" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-16" value="highlightProducer.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="650" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-17" value="bookingProducer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="316.5" y="440" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-17" value="bookingProducer.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="540" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-18" value="consumers/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="69" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="496" y="232.5" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-20" value="badges/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-23" value="index." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+        <mxCell id="taT7G3SYx_tGGkmXo42I-23" value="index.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="616.5" y="414" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-24" value="handler" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+        <mxCell id="taT7G3SYx_tGGkmXo42I-24" value="handler.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="616.5" y="520" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-25" value="streaks/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
@@ -67,20 +67,26 @@
         <mxCell id="taT7G3SYx_tGGkmXo42I-27" value="notifications/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
           <mxGeometry x="930" y="320" width="69" height="56.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-28" value="index." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+        <mxCell id="taT7G3SYx_tGGkmXo42I-28" value="index.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="723" y="414" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-29" value="index." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+        <mxCell id="taT7G3SYx_tGGkmXo42I-29" value="index.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="826.5" y="414" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="taT7G3SYx_tGGkmXo42I-31" value="index." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="936.5" y="414" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-32" value="eventRouter" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-32" value="eventRouter.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="320" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="taT7G3SYx_tGGkmXo42I-33" value="handlers" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="451" width="56.00000000000001" height="69" as="geometry" />
+        <mxCell id="taT7G3SYx_tGGkmXo42I-33" value="handlers.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="430" width="56.00000000000001" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="taT7G3SYx_tGGkmXo42I-35" value="main/" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="176.5" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="taT7G3SYx_tGGkmXo42I-40" value="logProducer.ts" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="320" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
