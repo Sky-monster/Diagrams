@@ -139,7 +139,7 @@
             <mxPoint x="960" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kvZrBagIpwXTD3F2PiOv-93" value="PUT/badges/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kvZrBagIpwXTD3F2PiOv-93" value="PUT /badges/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvZrBagIpwXTD3F2PiOv-94" value="GET /streaks/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -148,7 +148,7 @@
         <mxCell id="kvZrBagIpwXTD3F2PiOv-95" value="POST /streaks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="260" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kvZrBagIpwXTD3F2PiOv-96" value="PUT/streaks/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kvZrBagIpwXTD3F2PiOv-96" value="PUT /streaks/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvZrBagIpwXTD3F2PiOv-98" value="GET /notifications/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -157,8 +157,8 @@
         <mxCell id="kvZrBagIpwXTD3F2PiOv-99" value="POST /notifications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="790" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kvZrBagIpwXTD3F2PiOv-100" value="PUT/events/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="805" y="340" width="100" height="30" as="geometry" />
+        <mxCell id="kvZrBagIpwXTD3F2PiOv-100" value="PUT /events/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvZrBagIpwXTD3F2PiOv-101" value="GET /user_rewards/:id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="955" y="180" width="140" height="30" as="geometry" />
