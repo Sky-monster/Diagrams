@@ -46,6 +46,27 @@
             <mxPoint x="1140" y="239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-1" value="Students" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="318" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-2" value="University" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-3" value="Health Dept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-4" value="Vendors&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-5" value="Admins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-6" value="Project Team" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvZowP_lBATbWC2pvTFW-7" value="Faculties" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
