@@ -732,7 +732,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDm7uPqvjJfqhUoOwtDz-261" value="Monitor" style="whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="UDm7uPqvjJfqhUoOwtDz-261" value="Monitoring and Control" style="whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=1;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1720" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDm7uPqvjJfqhUoOwtDz-262" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="UDm7uPqvjJfqhUoOwtDz-261">
