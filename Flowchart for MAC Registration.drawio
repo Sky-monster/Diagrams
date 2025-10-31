@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="edB4JM7rWoDCb_x3T5GY">
+    <mxGraphModel dx="1661" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-3" target="87Ja7GUtVjfQvnUGKuNL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-3" value="Referal&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-4" target="87Ja7GUtVjfQvnUGKuNL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-4" target="87Ja7GUtVjfQvnUGKuNL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-4" value="Initial Contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-9" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Introduce yourselves&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Understanding of client situation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;What is MAC&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Understand their needs&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Decide method of support (Phone/Visit)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Schedule a time for MAC registration&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="165" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-15" target="87Ja7GUtVjfQvnUGKuNL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-15" target="87Ja7GUtVjfQvnUGKuNL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-15" value="MAC Contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-18" value="&lt;ol&gt;&lt;li&gt;Call/Meet as scheduled&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Confirm services&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Confirm MAC registration process (optional: interpreter)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Volunteer listens; does not engage in contact unless requested&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="265" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-21" target="87Ja7GUtVjfQvnUGKuNL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-21" value="Post Contact&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-31" value="&lt;ol&gt;&lt;li&gt;Pending assessment&lt;/li&gt;&lt;li&gt;Schedule follow-up until client receives outcome&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="500" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-33" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#07838F;strokeColor=none;gradientDirection=east;fillColor=#00CEAC;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-34" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#07838F;strokeColor=none;gradientDirection=east;fillColor=#00CEAC;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-35" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#07838F;strokeColor=none;gradientDirection=east;fillColor=#00CEAC;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-36" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#07838F;strokeColor=none;gradientDirection=east;fillColor=#00CEAC;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-37" target="87Ja7GUtVjfQvnUGKuNL-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-37" value="CHSP" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="87Ja7GUtVjfQvnUGKuNL-38" target="87Ja7GUtVjfQvnUGKuNL-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-38" value="SAH" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-41" value="Ask if client requires HCC&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-44" value="Ask if they need help to find possible provider" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-45" value="Website MAC website" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-46" value="Call MAC for direct referral" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="922.5" y="480" width="87.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="430" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-64" value="&lt;div&gt;&lt;font style=&quot;color: rgb(153, 51, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;REMARK:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(153, 51, 255);&quot;&gt;&lt;b&gt;Record in KNACK after every Contact&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(153, 51, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;Contact referred person for any issue(s)&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="550" y="620" width="395" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87Ja7GUtVjfQvnUGKuNL-65" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Flowchart for MAC Registration&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-50" width="590" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
