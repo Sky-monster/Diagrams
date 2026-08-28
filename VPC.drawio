@@ -14,13 +14,10 @@
           <mxGeometry x="130" y="77.5" width="320" height="385" as="geometry" />
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-2" value="Bastion Server" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-4">
-          <mxGeometry x="119.5" y="62.5" width="81" height="81" as="geometry" />
+          <mxGeometry x="140" y="152" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-24" value="10.0.0.0/24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-4">
           <mxGeometry x="30" y="20" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-29" value="Application Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-4">
-          <mxGeometry x="121.5" y="215.5" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-11" value="Internet gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-6">
           <mxGeometry x="21" y="235.5" width="69" height="69" as="geometry" />
@@ -29,36 +26,23 @@
           <mxGeometry x="510" y="80" width="310" height="380" as="geometry" />
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-17" value="Private EC2" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-5">
-          <mxGeometry x="150" y="213" width="81" height="81" as="geometry" />
+          <mxGeometry x="120" y="149.5" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-25" value="10.0.2.0/23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-5">
           <mxGeometry x="34" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-5" source="7UEoBRisvw-xPGoNRDyP-30" target="7UEoBRisvw-xPGoNRDyP-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-5" source="7UEoBRisvw-xPGoNRDyP-30" target="7UEoBRisvw-xPGoNRDyP-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-30" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-5">
-          <mxGeometry x="151" y="60" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-35" value="Relational Database Server" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-5">
-          <mxGeometry x="161" y="20" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-23" value="10.0.0.0/16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-6">
           <mxGeometry y="21" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-6" source="7UEoBRisvw-xPGoNRDyP-11" target="7UEoBRisvw-xPGoNRDyP-29">
+        <mxCell id="7UEoBRisvw-xPGoNRDyP-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=entityRelationEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-6" source="7UEoBRisvw-xPGoNRDyP-11" target="7UEoBRisvw-xPGoNRDyP-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="270" as="targetPoint" />
+            <mxPoint x="251.5" y="332.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-6" source="7UEoBRisvw-xPGoNRDyP-29" target="7UEoBRisvw-xPGoNRDyP-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7UEoBRisvw-xPGoNRDyP-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-6" source="7UEoBRisvw-xPGoNRDyP-2" target="7UEoBRisvw-xPGoNRDyP-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7UEoBRisvw-xPGoNRDyP-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7UEoBRisvw-xPGoNRDyP-6" source="7UEoBRisvw-xPGoNRDyP-2" target="7UEoBRisvw-xPGoNRDyP-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330.5" y="332.59645909645906" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-130" value="Public Route Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-1">
           <mxGeometry x="1020" y="79" width="150" height="141" as="geometry" />
@@ -103,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-140" value="Private Route Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-1">
-          <mxGeometry x="1030" y="254.5" width="150" height="150" as="geometry" />
+          <mxGeometry x="1020" y="254.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7UEoBRisvw-xPGoNRDyP-141" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7UEoBRisvw-xPGoNRDyP-140">
           <mxGeometry y="30" width="150" height="40" as="geometry" />
